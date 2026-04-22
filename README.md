@@ -1,6 +1,6 @@
 ## Prazer! eu sou Nicollas Dourado ☕
 Onde me encontrar:  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white): https://www.linkedin.com/in/nicollas-dourado-3383b024b/  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white): https://www.linkedin.com/in/nicollas-dourado-3383b024b  
   
   
 
